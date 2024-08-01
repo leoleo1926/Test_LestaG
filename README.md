@@ -19,74 +19,88 @@ FIFO.cpp - реализация циклических буферов
 **********************************************************************
 Результаты работы программы:
 1.
+Задание 1.  
+
 Enter an integer value:   123234
 Number  123234  is even.
+Задание 2.
 Vector: 
 1
 2
 3
 4
 5
-6
+6. 
 Array: 
 10
 20
 30
 40
 50
-60
-Vector is empty: true
-Array is full: false
-Enter a size of array  :   6
-Enter an integer array :   7 6 90 21 0 5
-Sorted array: 0 5 6 7 21 90 
+60. 
+Vector is empty: true. 
+Array is full: false. 
+Задание 3. 
+Enter a size of array  :   6. 
+Enter an integer array :   7 6 90 21 0 5. 
+Sorted array: 0 5 6 7 21 90.    
 
-2.
-Enter an integer value:   200
-Number  200  is even.
-Vector: 
+2.  
+Задание 1.  
+
+Enter an integer value:   200. 
+Number  200  is even.  
+Задание 2.  
+
+Vector:   
 1
 2
 3
 4
 5
-6
+6. 
 Array: 
 10
 20
 30
 40
 50
-60
-Vector is empty: true
-Array is full: false
-Enter a size of array  :   18
-Enter an integer array :   374 3746 0 745 98457 1 6 0
-8745 745 1 6 84597 322 886 0 0 0 0 0 0 0 
-Sorted array: 0 0 0 0 0 1 1 6 6 322 374 745 745 886 3746 8745 84597 98457 
+60. 
+Vector is empty: true. 
+Array is full: false. 
+Задание 3.
+
+Enter a size of array  :   18. 
+Enter an integer array :   374 3746 0 745 98457 1 6 0. 
+8745 745 1 6 84597 322 886 0 0 0 0 0 0 0. 
+Sorted array: 0 0 0 0 0 1 1 6 6 322 374 745 745 886 3746 8745 84597 98457. 
 
 3.
-Enter an integer value:   0
+Задание 1. 
+Enter an integer value:   0. 
 Number  0  is even.
-Vector: 
+Задание 2.  
+Vector:  
 1
 2
 3
 4
 5
-6
+6. 
 Array: 
 10
 20
 30
 40
 50
-60
-Vector is empty: true
-Array is full: false
-Enter a size of array  :   2
-Enter an integer array :   01 10
-Sorted array: 1 10 
+60. 
+Vector is empty: true. 
+Array is full: false. 
+Задание 3. 
+
+Enter a size of array  :   2. 
+Enter an integer array :   01 10. 
+Sorted array: 1 10. 
 **********************************
 **********************************
 
