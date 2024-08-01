@@ -21,23 +21,23 @@ FIFO.cpp - реализация циклических буферов
 1.
 Задание 1.  
 
-Enter an integer value:   123234
+Enter an integer value:   123234. 
 Number  123234  is even.
 Задание 2.
-Vector: 
+Vector:  
 1
 2
 3
 4
 5
-6. 
-Array: 
+6.  
+Array:
 10
 20
 30
 40
 50
-60. 
+60.  
 Vector is empty: true. 
 Array is full: false. 
 Задание 3. 
