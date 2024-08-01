@@ -32,11 +32,14 @@ int main() {
         }
 
         // Извлечение и вывод элементов
-        while (!bufferVector.isEmpty() && !bufferArray.isEmpty()) {
-            std::cout << "Vector: " << bufferVector.pop() << std::endl;
-            std::cout << "Array: " << bufferArray.pop() << std::endl;
+        std::cout << " Vector:" << std::ebdl;
+        while (!bufferVector.isEmpty()) {
+            std::cout << bufferVector.pop() << std::endl;
         }
-
+        std::cout << " Array:" << std::endl;
+        while (!bufferArray.isEmpty()) {
+            std::cout << bufferArray.pop() << std::endl;
+        }
         // Проверка свойств
         std::cout << "Vector is empty: " << (bufferVector.isEmpty() ? "true" : "false") << std::endl;
         std::cout << "Array is full: " << (bufferArray.isFull() ? "true" : "false") << std::endl;
