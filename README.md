@@ -22,7 +22,7 @@ FIFO.cpp - реализация циклических буферов
 Задание 1.  
 
 Enter an integer value:   123234. 
-Number  123234  is even.
+Number  123234  is even.  
 Задание 2.
 Vector:  
 1
